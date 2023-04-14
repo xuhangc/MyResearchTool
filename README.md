@@ -82,6 +82,8 @@ Some useful resources in my research career
 
 [HUST_LaTex_Beamer_Template](https://github.com/LiunxPaisley/HUST_LaTex_Beamer_Template)
 
+[NJU_ThesisDefenseBeamerTemplate](https://github.com/xzh19980906/NJU_ThesisDefenseBeamerTemplate)
+
 ## Methodologies
 
 [How to do research](./Methodologies/MIT-How-to-do-research.pdf)
