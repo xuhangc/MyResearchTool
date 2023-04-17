@@ -26,6 +26,8 @@ Some useful resources in my research career
 
 [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
+[FightingCV](https://github.com/xmu-xiaoma666/External-Attention-pytorch)
+
 ## Paper
 
 #### Review
