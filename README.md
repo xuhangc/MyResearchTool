@@ -56,6 +56,10 @@ Some useful resources in my research career
 
 [Tables Generator](https://www.tablesgenerator.com/)
 
+#### Reference
+
+[rebiber](https://github.com/yuchenlin/rebiber)
+
 ## PPT(Beamer)
 
 #### UMAC & UCAS
