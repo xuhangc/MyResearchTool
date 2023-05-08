@@ -38,6 +38,8 @@ Some useful resources in my research career
 
 [Low Level Vision Paper Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record)
 
+[Low Level Vision Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
+
 #### Writing
 
 [ChatGPT-Academic-Prompt](https://github.com/xuhangc/ChatGPT-Academic-Prompt)
