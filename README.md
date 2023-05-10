@@ -8,6 +8,8 @@ Some useful resources in my research career
 
 [NeuroMatch Academy (NMA) Computational Neuroscience syllabus](https://github.com/NeuromatchAcademy/course-content)
 
+[Learning Research](https://github.com/pengsida/learning_research)
+
 ## General Tools
 
 [AI-research-tools](https://github.com/bighuang624/AI-research-tools)
