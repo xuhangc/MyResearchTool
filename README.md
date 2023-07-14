@@ -54,6 +54,8 @@ Some useful resources in my research career
 
 [Image_Local_Magnification_Tool](https://github.com/JuewenPeng/Image_Local_Magnification_Tool)
 
+[MulimgViewer](https://github.com/nachifur/MulimgViewer)
+
 [ImageBoard](https://github.com/vinthony/ImageBoard)
 
 [SR_Viewer](https://github.com/hyang0511/SR_Viewer)
