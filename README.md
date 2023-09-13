@@ -46,7 +46,7 @@ Some useful resources in my research career
 
 [ChatGPT-Academic-Prompt](https://github.com/xuhangc/ChatGPT-Academic-Prompt)
 
-[QuillBot](https://quillbot.com/)
+[latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
 
 #### Figures & Tables
 
