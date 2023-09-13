@@ -62,6 +62,8 @@ Some useful resources in my research career
 
 [Tables Generator](https://www.tablesgenerator.com/)
 
+[python_plot_utils](https://github.com/guanyingc/python_plot_utils)
+
 #### Reference
 
 [rebiber](https://github.com/yuchenlin/rebiber)
