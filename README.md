@@ -64,6 +64,10 @@ Some useful resources in my research career
 
 [python_plot_utils](https://github.com/guanyingc/python_plot_utils)
 
+#### Videos
+
+[EvalBoard](https://github.com/evalcrafter/EvalBoard)
+
 #### Reference
 
 [rebiber](https://github.com/yuchenlin/rebiber)
