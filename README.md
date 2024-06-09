@@ -30,6 +30,28 @@ Some useful resources in my research career
 
 [FightingCV](https://github.com/xmu-xiaoma666/External-Attention-pytorch)
 
+## Related Work
+
+https://www.zhihu.com/question/304334959/answer/2961489939
+
+https://www.zhihu.com/question/579193031/answer/3445244234
+
+https://inciteful.xyz/
+
+https://app.litmaps.co/
+
+https://openknowledgemaps.org/
+
+https://keywords.groundedai.company/?q=paper
+
+https://www.connectedpapers.com/
+
+https://www.researchrabbit.ai/
+
+https://www.annualreviews.org/
+
+https://typeset.io/
+
 ## Paper
 
 #### Review
