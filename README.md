@@ -74,6 +74,8 @@ https://consensus.app/
 
 [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
 
+[Paper Writing](https://github.com/wangdongdut/PaperWriting)
+
 #### Figures & Tables
 
 [SciencePlots](https://github.com/garrettj403/SciencePlots)
